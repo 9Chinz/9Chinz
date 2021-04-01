@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm 👨‍💻 **9Chinz** 👨‍💻 Welcome to my profile
+
+## 📑 information 📑
+- 🧑 **Name :** 9Chinz
+- 🙏 **From :** Thailand
+- 🎓 **Current institution :** Faculty of Engineering, Computer Engineering, [**KMITL**](http://kmitl.ac.th/en)
 
 <!--
 **9Chinz/9Chinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
