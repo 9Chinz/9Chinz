@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![9Chinz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=9Chinz&show_icons=true&locale=en&layout=compact&theme=dracula)   
+![9Chinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Chinz&show_icons=true&theme=dracula)
